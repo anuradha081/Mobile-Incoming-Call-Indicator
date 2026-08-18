@@ -19,7 +19,7 @@ The above image shows the implemented circuit assembled on a breadboard using di
 
 The objective of this project is to detect RF signals emitted by a nearby mobile phone and generate a visual indication through an LED.
 
-The circuit is particularly useful in situations where a mobile phone may be kept in silent or vibrate mode but its RF activity still needs to be detected.
+The circuit is particularly useful in situations where a mobile phone is ring its RF activity is detected.
 
 ---
 
