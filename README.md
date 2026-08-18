@@ -190,7 +190,7 @@ The project documentation references:
 
 ## 📄 Project Documentation
 
-The complete project report and presentation can be found in the `documentation/` and `presentation/` directories.
+The complete ![project report](https://github.com/anuradha081/Mobile-Incoming-Call-Indicator/blob/main/Mobile_calll_indicator.pdf) directories.
 
 ---
 
