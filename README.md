@@ -9,7 +9,7 @@ The project was developed as part of the **Network Theory Laboratory** in the De
 
 ## 📸 Project Prototype
 
-![Mobile Incoming Call Indicator](images/Prototype_photo.jpg)
+![Mobile Incoming Call Indicator](images/Mobile-Incoming-Call-Indicator/blob/main/Prototype_photo.jpg)
 
 The above image shows the implemented circuit assembled on a breadboard using discrete electronic components and an NE555 timer.
 
