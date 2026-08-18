@@ -94,7 +94,7 @@ The component list is based on the submitted laboratory project documentation.
 
 ## 🧩 Circuit Diagram
 
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](https://github.com/anuradha081/Mobile-Incoming-Call-Indicator/blob/main/Circuit_diagran%20and%20block%20diagram%20of%20Mobile%20incoming%20call%20indicator.jpeg)
 
 The circuit uses the pickup element to detect RF activity, a transistor stage for signal processing, and an NE555 timer for generating the output indication.
 
@@ -165,8 +165,8 @@ The project documentation specifically discusses the use of a pickup coil, trans
 
 **Group 7 — Department of Electronics and Instrumentation Engineering**
 
-* Dhirendra Sahani
 * **Anuradha Kumari**
+* Dhirendra Sahani
 * Abhishek Kumar
 * Anjali Patel
 * Saumya Shreya
